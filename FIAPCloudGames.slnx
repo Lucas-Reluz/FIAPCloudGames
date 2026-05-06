@@ -2,5 +2,6 @@
   <Project Path="FIAPCloudGames.Application/FIAPCloudGames.Application.csproj" />
   <Project Path="FIAPCloudGames.Domain/FIAPCloudGames.Domain.csproj" />
   <Project Path="FIAPCloudGames.Infrastructure/FIAPCloudGames.Infrastructure.csproj" />
+  <Project Path="FIAPCLoudGames.UnitTests/FIAPCLoudGames.UnitTests.csproj" Id="529d0dff-e9cc-48cc-8d40-0e104bcf9a8f" />
   <Project Path="FIAPCloudGames/FIAPCloudGames.csproj" />
 </Solution>
